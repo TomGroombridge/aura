@@ -94,7 +94,19 @@ body{
 	padding-bottom: 65px;
 }
 
-.email-address{
-	
+.email-address{	
 	color: black;
+}
+
+.top-text-image{
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	margin-top: 10%;
+	width: 30%;
+}
+
+a{
+	text-decoration: none;
 }
