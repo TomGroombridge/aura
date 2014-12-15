@@ -10,7 +10,7 @@ end
 post '/submit' do
 	@model = Model.new(params[:model])
 	if @model.save
-		redirect '/'
+		redirect '/'		
 	else
 		"Sorry, there was an error!"
 	end
