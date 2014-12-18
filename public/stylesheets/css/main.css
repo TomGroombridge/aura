@@ -110,3 +110,9 @@ body{
 a{
 	text-decoration: none;
 }
+
+.email-adresses{
+	border: 1px solid black;
+	margin: auto;
+	width: 50%;
+}
